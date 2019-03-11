@@ -16,7 +16,7 @@ if (x % s==0) {
 }
 
 	}
-	
+	JOptionPane.showMessageDialog(null, "This number is prime.");
 	
 	
 	
